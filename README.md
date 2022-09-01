@@ -34,4 +34,3 @@ spring.datasource.password=password
 
 #### Testing 🕵️‍♂️
 * Para realizar testing solamente se debe ingresar una clase ListaControllerTest.java para poder hacer test unitarios <br>
-<b>obs: se dejo data ya ingresada y para hacer pruebas evitar eliminar la primera lista, ya que en su defecto fallaran algunos test</b>
