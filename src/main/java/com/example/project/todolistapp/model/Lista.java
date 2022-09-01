@@ -17,7 +17,7 @@ public class Lista {
     private long identificador;
 
     @NotNull
-    @NotEmpty
+    @NotEmpty(message = "descripcion no puede estar vacío")
     @Column
     private String descripcion;
 
